@@ -45,6 +45,8 @@
 
 ![CatBoostの重要な特徴量](catboost.png)
 
+![Gradient Boostingの重要な特徴量](GradientBoosting.png)
+
 この可視化から、特定の特徴量がモデルの予測においてどれほど重要であるかが分かります。
 例えば、「Designation_Rank」や「Passport」、「Gender_Male」などが高い重要度を持つことが確認され、これらの特徴量が成約率の予測に強く寄与していることがわかります。
 
