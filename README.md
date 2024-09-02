@@ -90,7 +90,7 @@ ROC曲線がモデルの真陽性率と偽陽性率のバランスを視覚的�
 
 - Email: kazuehayakawa@gmail.com
 - [LinkedIn Profile](https://www.linkedin.com/in/kazue-hayakawa-a650672b1/)
-- [GitHub Profile](https://github.com/your-profile)
+- [GitHub Profile](https://github.com/capri7)
 
 
 
